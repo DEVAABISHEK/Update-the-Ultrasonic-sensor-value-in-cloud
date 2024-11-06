@@ -129,6 +129,8 @@ void loop()
 
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/137cd0eb-6e4d-4f20-a524-4ae146582b54)
+
 
 
 # RESULT:
